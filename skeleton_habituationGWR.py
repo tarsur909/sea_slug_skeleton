@@ -73,4 +73,4 @@ def showresults(x,y,nTs,stv):
 # - Comment out the call to showresults below
 # - Comment out any print statements added during code development
 # - Make sure you keep x, y, pls, and other variable names the same
-showresults(x,y,nTs,stv)
+#showresults(x,y,nTs,stv)
